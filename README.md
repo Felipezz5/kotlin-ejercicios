@@ -1,6 +1,6 @@
 # kotlin-ejercicios
 
-1. NUmeros primos
+1. Numeros primos
 https://pl.kotl.in/Kjqgvwert
 
 2. Algoritmo de Euclides
